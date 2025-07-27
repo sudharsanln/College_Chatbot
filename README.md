@@ -21,20 +21,25 @@ An interactive, AI-powered chatbot that answers queries using only college-speci
 - **Data Pipeline**: Python scripts (`scrape.py`, `index.py`) for ingesting and indexing content
 
 ## 📂 Project Structure
-├── backend/
-│ ├── scrape.py # Web scraping college content
-│ ├── index.py # Build FAISS vector store
-│ ├── chatbot.py # Chat endpoint using LangChain + Ollama
-│ └── ...
-├── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── components/
-│ │ └── ...
-│ └── ...
+<details> 
+college-chatbot/
+├── backend/                     # FastAPI + LangChain backend
+│   ├── chatbot.py               # Main FastAPI app
+│   ├── scrape.py                # Scrapes college website data
+│   ├── index.py                 # Builds FAISS vector store
+│   ├── requirements.txt         # Backend dependencies
+│   └── ...
+├── frontend/                    # React + Tailwind chatbot UI
+│   ├── src/
+│   │   ├── components/          # React components (ChatBox, InputBar, etc.)
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── public/
+│   ├── package.json             # Frontend dependencies
+│   └── ...
 ├── README.md
-└── requirements.txt
-
+└── .gitignore
+</details>
 
 ---
 
