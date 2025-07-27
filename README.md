@@ -1,4 +1,4 @@
-# College_Chatbot
+# College Chatbot
 
 An interactive, AI-powered chatbot that answers queries using only college-specific data. Built as a full-stack application with a custom knowledge base and natural language processing capabilities.
 
