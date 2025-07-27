@@ -1,0 +1,103 @@
+B.Tech AI & Data Science
+This program emphasizes practical skills and hands-on learning. Students engage in coding assignments, programming projects, and lab work to develop proficiency in programming languages like Python, C, R and Object oriented programming. They also gain experience with popular frameworks and tools used in AI and DS, such as TensorFlow, Tableau and scikit-learn.
+Program Objectives
+This program aims at creating future data scientists and data analysts by preparing students through a semester-long capstone project where you can apply your knowledge and skills to work on a real-life data analytic assignments
+The program is designed to make you industry ready by in-depth learning in basic as well as advanced Probability and Statistics, rigorous practical skills in multiple programming language environments such as Python and Java, state-of-the-art Machine Learning(ML) and Deep Learning(DL) frameworks, Extensive knowledge in Artificial Intelligence, Image, video, text and speech analysis using ML/DL and Big Data Analytics using distributed technologies.
+This includes a semester-long capstone project where the students can apply their knowledge and skills to work on a real-life data analytic projects.
+Curriculum
+Curriculum divided in to 4 parts, namely, Math, Core-CSE, Core-AI, and Applications
+Core-CSE courses for placement
+Core-AI and Math courses for research/higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, OOP, Software engineering
+Hardware: Digital, CO, OS
+Data: Structures, DAA, DBMS
+Networks: Computer Networks, Cyber security, distributed computing, cloud computing, web technologies
+Core-AI course
+Foundations
+AI, Machine Learning
+Big Data
+Deep learning
+Applications
+Image and video
+Text (NLP, Machine Translation)
+Speech (ASR, TTS, S2S)
+Medical
+Robotics
+Math courses
+Linear Algebra and Matrix analysis
+Probability and Random process
+Statistics
+Discrete Mathematics
+Optimization Techniques
+Professional Elective buckets
+Advanced AI & DS
+Advanced Networking
+Advanced computing
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+Data Engineer / Scientist
+Machine Learning Engineer
+Data Analyst
+Interactive Visualizer / Graphic Designer
+Big Data Engineer / Architect
+Database Developer
+Statistician
+ML Intelligent System Researcher
+Program Objective
+Curriculum
+Career Opportunities
+Program Objective
+This program aims at creating future data scientists and data analysts by preparing students through a semester-long capstone project where you can apply your knowledge and skills to work on a real-life data analytic assignments
+The program is designed to make you industry ready by in-depth learning in basic as well as advanced Probability and Statistics, rigorous practical skills in multiple programming language environments such as Python and Java, state-of-the-art Machine Learning(ML) and Deep Learning(DL) frameworks, Extensive knowledge in Artificial Intelligence, Image, video, text and speech analysis using ML/DL and Big Data Analytics using distributed technologies.
+This includes a semester-long capstone project where the students can apply their knowledge and skills to work on a real-life data analytic projects.
+Curriculum
+Curriculum divided in to 4 parts, namely, Math, Core-CSE, Core-AI, and Applications
+Core-CSE courses for placement
+Core-AI and Math courses for research/higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, OOP, Software engineering
+Hardware: Digital, CO, OS
+Data: Structures, DAA, DBMS
+Networks: Computer Networks, Cyber security, distributed computing, cloud computing, web technologies
+Core-AI course
+Foundations
+AI, Machine Learning
+Big Data
+Deep learning
+Applications
+Image and video
+Text (NLP, Machine Translation)
+Speech (ASR, TTS, S2S)
+Medical
+Robotics
+Math courses
+Linear Algebra and Matrix analysis
+Probability and Random process
+Statistics
+Discrete Mathematics
+Optimization Techniques
+Professional Elective buckets
+Advanced AI & DS
+Advanced Networking
+Advanced computing
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+Data Engineer / Scientist
+Machine Learning Engineer
+Data Analyst
+Interactive Visualizer / Graphic Designer
+Big Data Engineer / Architect
+Database Developer
+Statistician
+ML Intelligent System Researcher

@@ -1,0 +1,115 @@
+B.Tech Computer Science & Engineering Cyber Security
+The Cybersecurity course offered by Shiv Nadar University (SNU) Chennai is designed to provide students with comprehensive knowledge and practical skills in various aspects of cybersecurity. The curriculum is divided into four parts: Math, Core-CSE, Core-Cyber Security, and Applications, each focusing on different areas of study. The course aims to prepare students for both industry placements and further research in cybersecurity.
+In the Core-CSE courses, students gain a strong foundation in computer science and programming. They learn languages such as C and Python, as well as Object-Oriented Programming and Android App Development. Additionally, they study hardware-related subjects like Digital Design, Computer Organization, and Operating Systems. Data-related topics such as Data Structures, Design and Analysis of Algorithms, and Database Management Systems are also covered. Networking aspects are addressed through courses like Computer Networks, Network Security, Cloud Computing & Security, and Web Technologies. Artificial Intelligence and Machine Learning techniques, Deep Learning, and Cognitive Psychology are taught to provide students with a foundation in AI for cybersecurity.
+The Core-Cyber Security courses focus specifically on cybersecurity principles and practices. Topics covered include Classical Cryptography, Cyber Security Essentials, Modern Cryptography, System Security Management, Network Penetration Testing, Ethical Hacking, Social Engineering, Cyber Forensics, and Web Application Security. These courses provide students with an in-depth understanding of cybersecurity fundamentals, threat detection and prevention mechanisms, and the skills required to investigate and respond to cyber threats.
+Program Objectives
+Comprehensive knowledge in cryptography, cybersecurity principles, cyber forensics, intrusion prevention mechanisms, cybercrime, cyber threats and vulnerabilities, AI for cybersecurity etc.
+Impart practical problem-solving skills, capability to investigate and utilize new technologies, security algorithms, and implementations.
+Introduce students to industry standard certifications, enabling them for placement opportunities as security analysts, architects, cryptanalysts, consultants, and solutions developer.
+Curriculum
+Curriculum divided into 4 parts, namely, Math, Core-CSE, Core-Cyber Security, and Applications:
+Core-CSE courses for placement
+Core-Cyber Security & Math courses for research & higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, Object Oriented Programming, Android App Development
+Hardware: Digital Design, Computer Organization, Operating Systems
+Data: Structures, Design and Analysis of Algorithms, Database Management Systems
+Networks: Computer Networks, Network security, cloud computing& Security, Web Technologies
+AI: Artificial Intelligence and Machine Learning Techniques, Deep Learning, Cognitive Psychology
+Core – Cyber Security
+Classical Cryptography
+Cyber Security Essentials
+Modern Cryptography
+System Security Management
+Network Penetration Testing, Ethical Hacking and Social Engineering
+Cyber Forensics
+Web Application Security
+Applications
+Security in IoT
+Database Security
+Intrusion Detection Systems
+Information Assurance and Security
+Mobile and Wireless Security
+Smart Device security
+Multimedia Security
+Math courses
+Linear Algebra
+Discrete mathematics
+Graph Theory
+Probability and Statistics
+Optimization Techniques
+Professional Elective buckets
+Quantum Cryptography
+Blockchain Technology
+Security in Industry 4.0
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+Ethical Hackers
+Network/ Cloud Security Engineer
+Cyber Security analyst
+Security Architect
+Cyber Security Manager
+Information Security Manager
+Cybersecurity and Application Security Engineer
+Program Objective
+Curriculum
+Career Opportunities
+Program Objective
+Comprehensive knowledge in cryptography, cybersecurity principles, cyber forensics, intrusion prevention mechanisms, cybercrime, cyber threats and vulnerabilities, AI for cybersecurity etc.
+Impart practical problem-solving skills, capability to investigate and utilize new technologies, security algorithms, and implementations.
+Introduce students to industry standard certifications, enabling them for placement opportunities as security analysts, architects, cryptanalysts, consultants, and solutions developer.
+Curriculum
+Curriculum divided into 4 parts, namely, Math, Core-CSE, Core-Cyber Security, and Applications:
+Core-CSE courses for placement
+Core-Cyber Security & Math courses for research & higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, Object Oriented Programming, Android App Development
+Hardware: Digital Design, Computer Organization, Operating Systems
+Data: Structures, Design and Analysis of Algorithms, Database Management Systems
+Networks: Computer Networks, Network security, cloud computing& Security, Web Technologies
+AI: Artificial Intelligence and Machine Learning Techniques, Deep Learning, Cognitive Psychology
+Core – Cyber Security
+Classical Cryptography
+Cyber Security Essentials
+Modern Cryptography
+System Security Management
+Network Penetration Testing, Ethical Hacking and Social Engineering
+Cyber Forensics
+Web Application Security
+Applications
+Security in IoT
+Database Security
+Intrusion Detection Systems
+Information Assurance and Security
+Mobile and Wireless Security
+Smart Device security
+Multimedia Security
+Math courses
+Linear Algebra
+Discrete mathematics
+Graph Theory
+Probability and Statistics
+Optimization Techniques
+Professional Elective buckets
+Quantum Cryptography
+Blockchain Technology
+Security in Industry 4.0
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+Ethical Hackers
+Network/ Cloud Security Engineer
+Cyber Security analyst
+Security Architect
+Cyber Security Manager
+Information Security Manager
+Cybersecurity and Application Security Engineer

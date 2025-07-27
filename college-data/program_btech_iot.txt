@@ -1,0 +1,97 @@
+B.Tech Computer Science and Engineering with Specialisation in IoT
+Our B.Tech CSE(IoT) program is a futuristic program that is an amalgamation of several diverse disciplines including core computer science and engineering, sensor technology and cloud computing with a dash of AI ,data science and cybersecurity thrown into the mix, thus embracing the true spirit of the 4th Industrial Revolution- Industry 4.0 that is currently happening. IoT as a subject itself is a manifestation of the awe-inspiring synthesis and symbiosis of the physical and the digital world with predictions being made that by 2025, there will be 50 billion devices connected over the world wide web.
+Program Objectives
+The program equips the students with a strong theoretical foundation, systematic professional knowledge, and powerful practical skills in a range of fields of computing science, internet of things, security, web-technologies, communications protocols, data management and application of intelligent algorithms.
+The program includes development of IoT products and services alongside the devices for sensing, actuating, processing, and intercommunication. This exposure builds a robust foundation for a range of applications in the IoT domain.
+The prime focus of the program is hands-on practice and industry learning on the applications of IoT in various sectors like Energy, Retail, Healthcare, Automation, Robotic things, and Green infrastructure.
+Curriculum
+Curriculum divided into 4 parts, namely, Core-CSE, Core-IoT, Applications, and Math for the following purposes:
+Core-CSE courses for placement
+Core-IoT and Math courses for research and higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, OOP, software engineering, Agile, compiler
+Hardware: Digital, MP and MC, CA, OS
+Data: Structures, DAA, DBMS
+Networks: Computer Networks, Cyber security, distributed computing, cloud computing, web technologies
+Core-IoT courses
+Foundations
+Sensor tech and Instrumentation
+IoT architecture
+Dynamic Paradigm in IoT
+Applications
+Electric vehicle design
+Data Science for IoT
+Real time analytics of sensor data
+IoMT for healthcare
+Math courses
+Linear Algebra
+Probability and Random Processes
+Discrete Mathematics
+Cryptography
+Professional Elective buckets
+Advanced IoT
+AI and DS
+Advanced Networking
+Advanced computing
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+IoT Engineer
+IoT Infrastructure Architect
+IoT App Developer.
+IoT Solution Architect
+IoT Devices supervisor
+IoT Scientist
+Program Objectives
+Curriculum
+Career Opportunities
+Program Objectives
+The program equips the students with a strong theoretical foundation, systematic professional knowledge, and powerful practical skills in a range of fields of computing science, internet of things, security, web-technologies, communications protocols, data management and application of intelligent algorithms.
+The program includes development of IoT products and services alongside the devices for sensing, actuating, processing, and intercommunication. This exposure builds a robust foundation for a range of applications in the IoT domain.
+The prime focus of the program is hands-on practice and industry learning on the applications of IoT in various sectors like Energy, Retail, Healthcare, Automation, Robotic things, and Green infrastructure.
+Curriculum
+Curriculum divided into 4 parts, namely, Core-CSE, Core-IoT, Applications, and Math for the following purposes:
+Core-CSE courses for placement
+Core-IoT and Math courses for research and higher studies
+Application courses to encourage Entrepreneurship
+Core-CSE
+Programming: C, Python, OOP, software engineering, Agile, compiler
+Hardware: Digital, MP and MC, CA, OS
+Data: Structures, DAA, DBMS
+Networks: Computer Networks, Cyber security, distributed computing, cloud computing, web technologies
+Core-IoT courses
+Foundations
+Sensor tech and Instrumentation
+IoT architecture
+Dynamic Paradigm in IoT
+Applications
+Electric vehicle design
+Data Science for IoT
+Real time analytics of sensor data
+IoMT for healthcare
+Math courses
+Linear Algebra
+Probability and Random Processes
+Discrete Mathematics
+Cryptography
+Professional Elective buckets
+Advanced IoT
+AI and DS
+Advanced Networking
+Advanced computing
+Curriculum –
+Click here
+Regulations –
+Click here
+Career Opportunities
+Apart from the regular job offers for the computer science and engineering graduates, the list of job profiles for a graduate in this program would be,
+IoT Engineer
+IoT Infrastructure Architect
+IoT App Developer.
+IoT Solution Architect
+IoT Devices supervisor
+IoT Scientist

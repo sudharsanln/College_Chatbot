@@ -1,0 +1,82 @@
+.chat-window {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 12px;
+}
+
+.message-container {
+  flex: 1;
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+textarea {
+  flex: 1;
+  padding: 10px 14px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  resize: none;
+  min-height: 50px;
+}
+
+button {
+  padding: 10px 16px;
+  background-color: #4e73df;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #3b5eb6;
+}
+
+.dive-deeper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.mic-button {
+  border: none;
+  background-color: #f0f0f0;
+  font-size: 1.25rem;
+  padding: 8px 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mic-button.listening {
+  background-color: #ff6961;
+  color: white;
+  box-shadow: 0 0 8px rgba(255, 105, 97, 0.7);
+  animation: pulse 1.2s infinite;
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(255, 105, 97, 0.7); }
+  70% { box-shadow: 0 0 0 12px rgba(255, 105, 97, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(255, 105, 97, 0); }
+}
+
+.dive-deeper button:disabled,
+.dive-deeper button.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
