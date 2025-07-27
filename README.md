@@ -21,7 +21,7 @@ An interactive, AI-powered chatbot that answers queries using only college-speci
 - **Data Pipeline**: Python scripts (`scrape.py`, `index.py`) for ingesting and indexing content
 
 ## 📂 Project Structure
-<details> 
+```
 college-chatbot/
 ├── backend/                     # FastAPI + LangChain backend
 │   ├── chatbot.py               # Main FastAPI app
@@ -39,7 +39,7 @@ college-chatbot/
 │   └── ...
 ├── README.md
 └── .gitignore
-</details>
+```
 
 ---
 
