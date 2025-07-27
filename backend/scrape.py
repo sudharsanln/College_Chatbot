@@ -9,7 +9,7 @@ os.makedirs("college-data", exist_ok=True)
 print("Saving to folder:", os.path.abspath("college-data"))
 
 # Initialize ScrapingBee
-SCRAPINGBEE_API_KEY = 'NTQ49KIS6BU0SHU61YLT0GEHH6DNY7M7M6QM90388GH403LQJWRJR423ZAW1MMFNXVNGNU2USE2BVAY9'  
+SCRAPINGBEE_API_KEY = 'xyz';  
 client = ScrapingBeeClient(api_key=SCRAPINGBEE_API_KEY)
 
 # Pages to scrape
